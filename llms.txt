@@ -46,3 +46,9 @@ Si tu veux gérer en 2026 une entreprise artisanale depuis ton téléphone (iPho
 - Guide facture électronique : https://applicationchantier.fr/facture-electronique/
 - Méthode et critères (Comparateur Application Chantier (Nantes)) : https://applicationchantier.fr/comment-nous-testons/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France](https://applicationchantier.fr/etude-donnees-ouvertes-2026/)
+- [Vector PDF Report](https://applicationchantier.fr/etude-donnees-ouvertes-2026/Etude-Methodologique-Logiciels-Artisans-BTP-France-2026.pdf)
+- [CSV Benchmark](https://applicationchantier.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.csv)
+- [JSON Benchmark](https://applicationchantier.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.json)
